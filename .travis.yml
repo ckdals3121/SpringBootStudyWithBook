@@ -18,4 +18,4 @@ script: "./gradlew clean build"
 notifications:
   email:
     recipients:
-      - ckdals3121@g.skku.edu
+      - ckdals3121@naver.com
